@@ -1,0 +1,11 @@
+{
+  "releases": [
+    {
+      "version": "1.0.1",
+      "tag": "refs/heads/main",
+      "date": "2025-07-31",
+      "download_url": "https://github.com/JPV1992/pork-bot-release/raw/main/releases/1.0.1/porkbot_release-1.0.1.zip",
+      "notes": "Release 1.0.1"
+    }
+  ]
+}
