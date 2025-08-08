@@ -48,6 +48,13 @@
       "date": "2025-08-08",
       "download_url": "https://github.com/JPV1992/pork-bot-release/raw/main/releases/1.0.0/porkbot_release-1.0.0.zip",
       "notes": "Release 1.0.0"
+    },
+    {
+      "version": "1.0.2",
+      "tag": "refs/heads/main",
+      "date": "2025-08-08",
+      "download_url": "https://github.com/JPV1992/pork-bot-release/raw/main/releases/1.0.2/porkbot_release-1.0.2.zip",
+      "notes": "Release 1.0.2"
     }
   ]
 }
